@@ -522,6 +522,17 @@ const projects = [
     </div>
    </div>
    </>) },
+    { id: "projekt6", name: "⚛ React", description: (<>
+    <div>
+        <h2 className="subtitle"> Ta strona :) </h2>
+        <div>
+          <div className="gallery-container" >
+            <a href="https://github.com/MeHow2k/Portfolio-Website-React">Repozytorium GitHub</a>
+            <img width="32" height="32" src="/images/githublogo.png" alt="GitHub logo"></img>
+          </div>
+        </div>
+      </div>
+    </>)}
 ];
 
 const Projects = () => {
